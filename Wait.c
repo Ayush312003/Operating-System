@@ -27,15 +27,10 @@ if(n&1)
 printf("No. is Odd\n");
 
 else
-
 printf("No. is Even\n");
-
 }
-
 else
-
 {
-
 wait(NULL);
 
 int a,b;
