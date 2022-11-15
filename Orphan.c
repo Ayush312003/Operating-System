@@ -4,12 +4,9 @@
 
 #include <unistd.h>
 
-
-
 int main()
 
 {
-
 	int pid=fork();
 
 	int a,b,c;
@@ -54,9 +51,6 @@ int main()
 
 	}
 
-
-
 	return 0;
-
 }
 
