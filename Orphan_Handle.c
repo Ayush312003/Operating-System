@@ -6,8 +6,6 @@
 
 #include <wait.h>
 
-
-
 int main()
 
 {
@@ -35,8 +33,6 @@ int main()
 		printf("Parent id: %d\n",getpid());
 
 	}
-
-	
 
 	else
 
