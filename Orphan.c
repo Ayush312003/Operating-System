@@ -28,9 +28,7 @@ int main()
 		printf("Orphan Process\n");
 
 	}
-
 	
-
 	else
 
 	{
