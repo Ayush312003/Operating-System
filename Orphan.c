@@ -27,9 +27,7 @@ int main()
 		printf("Orphan Process\n");
 
 	}
-	
 	else
-
 	{
 
 		printf("Enter two numbers: ");
