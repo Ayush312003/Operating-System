@@ -52,4 +52,4 @@ int main()
     printf("\nAverage Turn Around Time:%f\n",(float)tottat/n);
     return 0;
 }
-.
+
