@@ -14,8 +14,8 @@ printf("\n\t%d\n",q[k]);
 c++;
 k++;
 for(i=1;i<n;i++)
-            {
-                        c1=0;
+{
+                    c1=0;
                         for(j=0;j<f;j++)
                         {
                                     if(p[i]!=q[j])
