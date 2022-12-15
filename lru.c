@@ -70,6 +70,5 @@ for(i=1;i<n;i++)
             }
 }
 double hitratio=(n-c)/(double)n;
-
     printf("\nTotal Page Faults:\t%d\n Hit Rato: %lf, Miss Ratio= %lf", c,hitratio,1-hitratio);
 }
