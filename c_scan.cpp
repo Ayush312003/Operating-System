@@ -2,7 +2,6 @@
 using namespace std;
 #define TRACKS 199 //total 200 0-199
 
-
 int main(){
     freopen("input_SCAN.txt", "r", stdin);
     int currentPosition = 53, t, n;
